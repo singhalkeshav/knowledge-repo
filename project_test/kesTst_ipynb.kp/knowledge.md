@@ -1,12 +1,14 @@
 ---
-title: This is a Knowledge Template Header
+title: This is Second Post from Keshav to demo Knowledge_Repo
 authors:
-- keshav singhal
+- Keshav Singhal
+- wesley_wisdom
 tags:
 - knowledge
-- example
+- demo
+- second post
 created_at: 2016-06-29 00:00:00
-updated_at: 2018-06-20 11:47:00.575383
+updated_at: 2018-06-27 12:25:25.584241
 tldr: This is short description of the content and findings of the post.
 thumbnail: images/output_5_1.png
 ---
@@ -24,7 +26,7 @@ thumbnail: images/output_5_1.png
 
 The knowledge repo was created to consolidate research work that is currently scattered in emails, blogposts, and presentations, so that people didn't redo their work.
 
-### This Section Says Exactly This Takeaway - Test by Keshav
+### This Section Says Exactly This Takeaway
 
 
 ```python
